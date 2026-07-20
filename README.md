@@ -26,4 +26,4 @@ I am a mid-level IT infrastructure professional specializing in enterprise netwo
 * 🐳 **[Infrastructure Observability Stack]:** Docker-compose environments for deploying Zabbix, Grafana, and NetBox to monitor network health.
 
 ---
-📫 **How to reach me:** [Твоя ссылка на LinkedIn] | [Твой Telegram/Email]
+📫 **How to reach me:** [[LinkedIn]](https://www.linkedin.com/in/iboginia/) | [[Твой Telegram/Email]](https://www.t.me/ilushab)
