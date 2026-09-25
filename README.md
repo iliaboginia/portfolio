@@ -5,7 +5,7 @@ I am a mid-level IT infrastructure professional specializing in enterprise netwo
 
 ### 👨‍💻 About Me
 * 🔹 **Experience:** 7+ years of hands-on experience in IT infrastructure and systems administration.
-* 🔹 **Core Expertise:** Deep focus on MikroTik hardware/RouterOS, advanced OSPF routing, and L3 Hardware Offloading optimization.
+* 🔹 **Core Expertise:** Deep focus on MikroTik hardware/RouterOS, advanced OSPF routing.
 * 🔹 **Certifications:** MTCNA, MTCRE, MTCTCE.
 * 🔹 **Education:** Degree in Information Systems.
 
