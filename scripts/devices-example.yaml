@@ -1,0 +1,20 @@
+groups:
+    access_switches:
+        - device_type: mikrotik_routeros
+          host: __IP-ADDRESS__
+          username: __USERNAME__
+          password: __PASSWORD__
+          port: __PORT__
+ 
+    distribution_switches:
+        - device_type: mikrotik_routeros
+          host: __IP-ADDRESS__
+          username: __USERNAME__
+          password: __PASSWORD__
+          port: __PORT__
+    core_switches:
+        - device_type: mikrotik_routeros
+          host: __IP-ADDRESS__
+          username: __USERNAME__
+          password: __PASSWORD__
+          port: __PORT__
